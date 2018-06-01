@@ -1,4 +1,5 @@
 #PK Shoes Initial Mockups
 
-Using the [Materialize CSS Framework](https://materializecss.com/)
+Mock ups, Design Drawings, Diagrams, etc goes here.
 
+Initial mockup is on this repo https://github.com/PK-Shoes/PKShoes-1
